@@ -4,7 +4,7 @@ from supabase import create_client
 
 # 🔐 CONEXÃO
 url = "https://woesgdgbnhjckgmgjxbt.supabase.co"
-key = "sb_secret_pZkEKoVo6gGkQ-kD4LgjnA_6B51nztS"
+key = "YOUR_SUPABASE_KEY"
 
 supabase = create_client(url, key)
 
