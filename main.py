@@ -3,7 +3,7 @@ import numpy as np
 from supabase import create_client
 
 # 🔐 CONEXÃO
-url = "https://woesgdgbnhjckgmgjxbt.supabase.co"
+url = "URL"
 key = "YOUR_SUPABASE_KEY"
 
 supabase = create_client(url, key)
